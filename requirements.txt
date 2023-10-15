@@ -7,6 +7,5 @@ scipy
 datetime
 yellowbrick
 mlxtend
-pickle
 streamlit
 openpyxl
